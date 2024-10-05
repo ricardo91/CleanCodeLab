@@ -16,4 +16,3 @@ export function getPrimeFactors(limit: number): number[] {
     }
     return primeFactors;
   }
-  
